@@ -10,7 +10,7 @@ jobs:
 
     services:
       postgres:
-        image: postgres:15.
+        image: postgres:15. 
         env:
           POSTGRES_USER: decide
           POSTGRES_PASSWORD: decide
